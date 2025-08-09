@@ -1,3 +1,5 @@
+> [!CAUTION]  
+> This package is no longer being actively maintained. We may attempt an update to the current spatial-r standards in the future, but there is no timeline or funding for planning ahead. 
 
 # modleR: a workflow for ecological niche models
 
